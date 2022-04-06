@@ -1,0 +1,1 @@
+{"processes":{"45a61012-7645-4e6f-89b2-509e024f2c25":{"parent":null,"children":["723b2bd0-ad2f-499b-9fa8-4168758acd05"]},"723b2bd0-ad2f-499b-9fa8-4168758acd05":{"parent":"45a61012-7645-4e6f-89b2-509e024f2c25","children":[]}},"files":{"/home/usuario/ccolivares-PE-102-040422/src/index.ts":["723b2bd0-ad2f-499b-9fa8-4168758acd05"]},"externalIds":{}}
