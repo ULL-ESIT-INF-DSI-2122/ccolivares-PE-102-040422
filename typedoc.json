@@ -1,6 +1,9 @@
 {
   "entryPoints": [
-    "./src/index.ts"
+    "./src/fighter_creator.ts",
+    "./src/fighter.ts",
+    "./src/pokemon_creator.ts",
+    "./src/pokemon.ts"
   ],
   "out": "./docs"
 }
