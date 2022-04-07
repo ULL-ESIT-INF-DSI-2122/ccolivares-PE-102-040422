@@ -2,8 +2,14 @@ export { Pokemon };
 export { Types };
 import { Fighter } from './fighter';
 
+/**
+ * Tipo Enum que representa los tipos de los Pokemon
+ */
 enum Types {fire, water, grass, electric};
 
+/**
+ * Clase que representa a un Pokemon
+ */
 class Pokemon implements Fighter {
   /**
    * Clase Pokémon ( Fighter )
